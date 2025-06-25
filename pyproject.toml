@@ -5,3 +5,4 @@ description = "This is the official Pytorch implementation of the IROS 2024 pape
 requires-python = ">=3.10"
 # guard against empty input
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
